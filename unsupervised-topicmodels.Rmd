@@ -1,6 +1,6 @@
 ---
 title: "CTA-ED Exercise 5: Unsupervised learning (topic models)"
-author: "[Names of all group members here]"
+author: "Jingmin Chen/ Shijing Du/ Lin Zhou"
 date: "13/03/2024"
 output: html_document
 ---
